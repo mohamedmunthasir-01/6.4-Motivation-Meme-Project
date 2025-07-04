@@ -1,0 +1,32 @@
+
+
+
+body{
+    background-color: black;
+}
+.imag1{
+    border: 5px white solid;
+     margin-left: 25%;
+    margin-right: 25%;
+     width: 608px;
+   height: 350px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
+.div1{
+   
+    margin: 5%;
+
+}
+img{
+   width: 608px;
+   height: 350px;
+    
+}
